@@ -4,8 +4,8 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=mi9pro
-do.devicecheck=1
+kernel.string=kernel
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
